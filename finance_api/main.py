@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-from market_api.routers import info
+from finance_api.routers import info
 
 app = FastAPI()
 
